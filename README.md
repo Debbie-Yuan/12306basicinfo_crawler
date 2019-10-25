@@ -3,8 +3,7 @@
 
 
 ## How to use?
-* Well It's really simple to use, just enter ```bash
-python3 Pipline.py``` and then wait to the end.
+* Well It's really simple to use, just enter ```python3 Pipline.py``` and then wait to the end.
 
 * Hope you enjoy it, and I'm just starting to code for very short period of years, so there must be few bugs in the program. I'm glad to receive any issue about this project!
 
